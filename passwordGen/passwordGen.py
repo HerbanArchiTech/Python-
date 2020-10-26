@@ -16,7 +16,6 @@ control_Structures = ['conditionals', 'statements', 'loops', 'functions', 'excep
 
 numbers = randrange(1,100)
 
-#sCharacters =punctuation + choice
 
 
 special_char = [choice(string.punctuation)]
