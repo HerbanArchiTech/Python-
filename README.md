@@ -1,2 +1,2 @@
 # Python-
-Using this repository to log my progress with these rudimentary programs in python 
+Using this repository to log my progress with these rudimentary programs in python .
